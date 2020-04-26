@@ -1,0 +1,7 @@
+echo "# githubCommands" >> README.md (optional)
+
+under project base directory --> git init 
+git add <filenames> or . (all files)
+git commit -m "first commit"
+git remote add origin https://github.com/cozca85/<nameOfRepo>.git
+git push -u origin master
